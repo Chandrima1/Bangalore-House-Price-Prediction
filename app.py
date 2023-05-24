@@ -62,7 +62,7 @@ if user_menu == 'Price Analysis':
         st.bar_chart(bottom_11_locations, height= 500, width= 150)
 
 
-    st.image('Dist_BHK_top_ten.png')
+    st.image('MicrosoftTeams-image.png')
 
 
 if user_menu == 'Price Prediction':
