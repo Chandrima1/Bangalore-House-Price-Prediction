@@ -35,4 +35,6 @@ The application can be accessed at https://chandrima1-bangalore-house-price-pred
 * The code for this project was inspired by the Real Estate Price Prediction Project by codebasics.
 
 * I would like to acknowledge my friend @AyanBanerjee98 for his contribution to this project.
+
+
 Feel free to contribute to the project by opening pull requests or creating issues if you encounter any problems
